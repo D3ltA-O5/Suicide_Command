@@ -1,6 +1,6 @@
 # 💀 Suicide/Kill Command Plugin for SCP: Secret Laboratory
 
-The **Suicide/Kill Command Plugin** allows players to execute the `.suicide` or `.kill` commands to instantly eliminate themselves during the game. This can be useful for roleplay scenarios, quick respawns, or other creative server setups.
+The **Suicide/Kill Command Plugin** allows players to execute the `.suicide` or `.kill` commands to instantly eliminate themselves during the game. This can be useful for quick respawns, or if player don't wanna play the role.
 
 ## ✨ Features
 
