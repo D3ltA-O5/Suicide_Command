@@ -72,4 +72,4 @@ We welcome contributions from the community! If you have suggestions or improvem
 
 ## 🛠️ Support
 
-For support, questions, or to report bugs, please visit the [GitHub Issues page](https://github.com/D3ltA-O5/SuicideCommand/issues) or DM me in Discord: **cyberco**.
+For support, questions, or to report bugs, please visit the [GitHub Issues page](https://github.com/D3ltA-O5/Suicide_Command/issues) or DM me in Discord: **cyberco**.
