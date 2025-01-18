@@ -15,8 +15,8 @@ The **Suicide/Kill Command Plugin** allows players to execute the `.suicide`, `.
 
 ## 📥 Installation
 
-1. **Download the `SuicideCommand.dll` file** from the [Releases](https://github.com/D3ltA-O5/Suicide_Command/releases) page.
-2. **Place the `SuicideCommand.dll` file** in your server's `EXILED/Plugins` directory.
+1. **Download the `Suicide_Command.dll` file** from the [Releases](https://github.com/D3ltA-O5/Suicide_Command/releases) page.
+2. **Place the `Suicide_Command.dll` file** in your server's `EXILED/Plugins` directory.
 3. **Restart your server** to load the plugin.
 
 ## ⚙️ Configuration
